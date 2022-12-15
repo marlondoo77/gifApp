@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en gifitem componente debe de hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Yo soy el titulo"
+      src="https://soylaurl.com/"
+    />
+    <p>
+      Yo soy el titulo
+    </p>
+  </div>
+</div>
+`;
